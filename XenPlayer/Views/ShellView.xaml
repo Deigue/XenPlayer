@@ -1,0 +1,16 @@
+﻿<Controls:MetroWindow   x:Class="XenPlayer.Views.ShellView"
+                        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+                        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+                        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                        xmlns:local="clr-namespace:XenPlayer.Views"
+                        xmlns:styleProperties="clr-namespace:XenPlayer.StyleProperties"
+                        mc:Ignorable="d"
+                        styleProperties:WindowAttachedProperties.InitialWindowHeight="684.92"
+                        styleProperties:WindowAttachedProperties.InitialWindowWidth="1220"
+                        GlowBrush="Red">
+    <Grid>
+        <TextBox HorizontalContentAlignment="Center" VerticalAlignment="Center">HI</TextBox>
+    </Grid>
+</Controls:MetroWindow>
